@@ -60,10 +60,6 @@ The notebook concludes with a summary of the findings and potential next steps f
 
 To run this notebook, simply open it in Google Colab and follow the steps outlined in each section. Make sure to install the necessary libraries if they are not already available in your environment.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to the open-source community and the various contributors who have shared their knowledge and tools, making this project possible.
